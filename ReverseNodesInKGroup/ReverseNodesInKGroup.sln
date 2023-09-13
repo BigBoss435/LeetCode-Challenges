@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNodesInKGroup", "ReverseNodesInKGroup\ReverseNodesInKGroup.csproj", "{9EAD1041-327D-4B75-A529-699B2C4210E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAD1041-327D-4B75-A529-699B2C4210E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAD1041-327D-4B75-A529-699B2C4210E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAD1041-327D-4B75-A529-699B2C4210E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAD1041-327D-4B75-A529-699B2C4210E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F84BC47-2866-4DEF-A94F-FF4EBFBFB2B7}
+	EndGlobalSection
+EndGlobal
